@@ -1,0 +1,6 @@
+
+@media only screen and (min-width: 600px), screen and (max-width: 601px) {
+    .div2 {
+        background-color: blue;
+      }
+}  
